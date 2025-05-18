@@ -29,7 +29,7 @@ A powerful, interactive terminal-based system monitoring tool that provides real
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/vitalviz.git
+git clone https://github.com/CODE-HQ-1/vitalviz.git
 cd vitalviz
 pip install psutil rich
 ```
