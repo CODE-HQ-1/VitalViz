@@ -1,6 +1,6 @@
 # 🖥️ VitalViz
 
-A powerful, interactive terminal-based system monitoring tool that provides real-time insights into your computer's vital signs with a colorful, easy-to-read interface.
+A powerful, interactive terminal-based system monitoring tool that provides real-time insights into your computer's vital signs with a colorful, easy-to-read interface..
 
 ---
 
