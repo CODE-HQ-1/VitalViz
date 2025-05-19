@@ -4,7 +4,7 @@ A powerful, interactive terminal-based system monitoring tool that provides real
 
 ---
 
-## 📊 Features
+## 📊 Features..
 
 - **Real-time CPU Monitoring:** Per-core usage with color-coded visual indicators  
 - **Memory Analysis:** RAM utilization with percentages and meters  
